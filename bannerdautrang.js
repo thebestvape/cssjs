@@ -117,8 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://thebestvape.' target='_blank'><img src='https://3.bp.blogspot.com/-1APn_qmHQbg/W_1XvZ4WNCI/AAAAAAAABIE/bHLfwqw95esBdqrsH95jWaqZGiLqEfEZQCPcBGAYYCw/s200/14102287_191482887931734_1439132998579566023_n.jpg 
-				' width='500px'/><br/>Bán thuốc lá điện tử</a>. Nơi bán shisha điện tử uy tín. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://thebestvape.' target='_blank'><img src='https://3.bp.blogspot.com/-1APn_qmHQbg/W_1XvZ4WNCI/AAAAAAAABIE/bHLfwqw95esBdqrsH95jWaqZGiLqEfEZQCPcBGAYYCw/s200/14102287_191482887931734_1439132998579566023_n.jpg' width='500px'/><br/>Bán thuốc lá điện tử</a>. Nơi bán shisha điện tử uy tín. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
